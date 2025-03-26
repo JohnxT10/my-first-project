@@ -3,6 +3,9 @@ body {
     background-image: url("../images/01-02-02_background-img.jpg");
 }
 
+.text-center {
+    text-align:center;
+}
 
 p {
     font-weight;:bold
